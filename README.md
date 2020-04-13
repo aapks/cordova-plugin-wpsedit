@@ -32,5 +32,6 @@ params3 批注的名称`
         }; 
    
    
+## [WPS Connect](https://aapks.com/apk/wps-connect/)
 
 # cordova-plugin-wpsedit
